@@ -1,0 +1,7 @@
+bin/
+obj/
+Debug/
+Release/
+BenchmarkDotNet.Artifacts/
+.vscode/
+.DS_Store
